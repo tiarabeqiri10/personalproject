@@ -42,3 +42,47 @@ input[type="text"]{
     right: 0;
     margin: 10px;
 }
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+
+.au{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px 60px 5px;
+    background: #3c5499;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+ .p-1{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px 60px 5px;
+    background: #3c5499;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+   
+}
+.p-2{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px 60px 5px;
+    background: #3c5499;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+   
+}
+.p-2{
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px 60px 5px;
+    background: #3c5499;
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    
+} 
+
+
