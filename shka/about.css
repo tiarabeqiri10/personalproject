@@ -51,13 +51,15 @@ p{
 
 .au{
     font-family: 'Times New Roman', Times, serif;
-    border-radius: 5px 60px 5px;
-    background: #3c5499;
+    border: 5px solid #3c5499;
+    
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
- .p-1{
+
+
+ /* .p-1{
     font-family: 'Times New Roman', Times, serif;
     border-radius: 5px 60px 5px;
     background: #3c5499;
@@ -83,6 +85,6 @@ p{
     justify-content: space-between;
     margin: 50px;
     
-} 
+}  */
 
 

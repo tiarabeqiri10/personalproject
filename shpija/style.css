@@ -48,7 +48,8 @@ input[type="text"]{
     border-radius: 5px;
     padding: 5px;
     right: 0;
-    /* margin: 10px; */
+    margin: 10px;
+    
 }
 input[type="submit"]{
     background-color: #344b8e;
@@ -86,8 +87,8 @@ input[type="submit"]{
 }
 
 .painting-1 img{
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 300px;
 }
 p{
     color: white;
@@ -97,4 +98,33 @@ h1{
 }
 .painting-1{
     border-radius: 25px white;
+}
+.painting-1{
+    width: 600x;
+    height: 550px;
+    border-radius: 10px ;
+    border: 3px solid black;
+    box-shadow: 5px 10px 10px 5px ;
+}
+#sub{
+     transform: scale(1);
+    transition: .3s ease-in-out;
+}
+#sub:hover img{
+    transform: scale(1);
+}
+#hi{
+    transform: scale(0.3);
+    transition: cubic-bezier(0.39, 0.575, 0.565, 1)
+    ease-in-out;
+}
+img:hover{
+    width: 550px;
+    height: 340px;
+  transition: .3s ease-in-out;
+}
+input:hover{
+    width: 100px;
+    height: 35px;
+    transition: .3s ease-in-out;
 }
