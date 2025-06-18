@@ -52,10 +52,10 @@ p{
 .au{
     font-family: 'Times New Roman', Times, serif;
     border: 5px solid #3c5499;
-    
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    
 }
 
 
